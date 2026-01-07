@@ -18,7 +18,7 @@ Tokens were minted at deployment and distributed manually for community use.
 
 ## Team
 This project is managed by an independent creator.
-Contact: bluemonkeyblue2025@gmail.com.com (or GitHub profile link)
+Contact: bluemonkeyblue2025@gmail.com.com (or https://github.com/Akirumi812)
 
 ## Links
 - GitHub: https://github.com/Akirumi812/Blue-Monkey-Token.git
