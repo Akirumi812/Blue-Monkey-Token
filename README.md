@@ -21,5 +21,5 @@ This project is managed by an independent creator.
 Contact: bluemonkeyblue2025@gmail.com.com (or GitHub profile link)
 
 ## Links
-- GitHub: https://github.com/yourname/bluemonkey
-- Polygonscan: https://polygonscan.com/token/0x....
+- GitHub: https://github.com/Akirumi812/Blue-Monkey-Token.git
+- Polygonscan: https://polygonscan.com/token/0x49deA29a7a9638f1E6b4004a6D28F50D7AdF4afE
